@@ -24,6 +24,7 @@ CSV files for every table (customers, invoices, tracks, artists, genres, etc.) s
 
 Schema Diagrams
 Visual ER diagrams showing how tables relate to one another, making it easy to see the structure of the music store database.
+
 ![image](https://github.com/user-attachments/assets/64ce6174-0e1d-4b69-b756-828388226318)
 
 
